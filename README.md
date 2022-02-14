@@ -15,7 +15,7 @@ Apenas para testar meus conhecimentos (não muito) em Kotlin mesmo :D
 
 🔶 Outras coisas:
 
-🗨 Discord: danielj#0476
-🐦Twitter: linkeddan
+- 🗨 Discord: danielj#0476
+- 🐦Twitter: linkeddan
 
 
