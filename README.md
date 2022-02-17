@@ -7,8 +7,8 @@ Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamaçã
 - Interessado em Rust e Golang 
 - Moro em Nova Iguaçu (RJ) 🇧🇷
 
-🔷 Projetos :
-0.
+🔷 Projetos
+- Cade nnsei
 
 🔶 Outras coisas:
 
