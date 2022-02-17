@@ -8,10 +8,7 @@ Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamaçã
 - Moro em Nova Iguaçu (RJ) 🇧🇷
 
 🔷 Projetos :
-
-- 💬 Venom Bot:
-Um bot que não vai ser publico, mas sim open-source.
-Apenas para testar meus conhecimentos (não muito) em Kotlin mesmo :D
+0.
 
 🔶 Outras coisas:
 
