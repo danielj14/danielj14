@@ -12,7 +12,7 @@ Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamaçã
 
 🔶 Outras coisas:
 
-- 🗨 Discord: danielj#0476
+- 🗨 Discord: Danieljrnwkewkk#0476
 - 🐦Twitter: linkeddan
 
 
