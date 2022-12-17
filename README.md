@@ -2,12 +2,9 @@
 
 Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamação ;)
 
-- 🐧 Windows/Linux user :( 😥
-- Moro em Nova Iguaçu (RJ) 🇧🇷
+🔶 Coisinhas:
 
-🔶 Outras coisas:
-
-- 🗨 Discord: Danieljrnwkewkk#0476
-- 🐦Twitter: linkeddan
+- 🗨 Discord: YGONA#4461 (jaja muda)
+- 🐦Twitter: nieljjl
 
 
