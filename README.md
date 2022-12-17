@@ -5,6 +5,6 @@ Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamaçã
 🔶 Coisinhas:
 
 - 🗨 Discord: YGONA#4461 (jaja muda)
-- 🐦Twitter: nieljjl
+- 🐦Twitter: niejjl
 
 
