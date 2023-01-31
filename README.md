@@ -1,10 +1,5 @@
 # Hi There 👋
 
-Olá, meu nome é Daniel, apenas alguém aleatorio por ai aprendendo progamação ;)
-
-🔶 Coisinhas:
-
-- 🗨 Discord: YGONA#4461 (jaja muda)
-- 🐦Twitter: niejjl
-
+Pessoinha por ai na internet tentando aprender códigos
+- 🗨 Discord: Daniel Julio#1557 (jaja muda)
 
