@@ -1,4 +1,4 @@
-# Eae 👋
+# 👋
 
-Meu nome é Daniel Junior, não sou muito bom em progamação, mas tamo ae.
-Eu gosto de Rust 👍
+🇧🇷 bad programmer lol
+learning rust
